@@ -4,8 +4,9 @@ from django.utils.translation import gettext_lazy as _
 
 # Create your models here.
 
-#Just Done Some Changes for The Testing Purpose.
-#Testing How Git Works.
+# Just Done Some Changes for The Testing Purpose.
+# Testing How Git Works.
+# Added One More Comment to Test the Branches.
 
 class CustomUser(AbstractUser):
 
